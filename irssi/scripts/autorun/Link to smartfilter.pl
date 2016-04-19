@@ -1,0 +1,1 @@
+/home/svetlana/.irssi/scripts/smartfilter.pl
